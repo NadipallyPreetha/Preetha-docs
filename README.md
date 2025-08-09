@@ -1,1 +1,6 @@
-# Preetha-docs
+# Preetha-docs 
+# My First Repository
+
+This is my first GitHub repository.  
+I am learning how to use README.md files.
+
